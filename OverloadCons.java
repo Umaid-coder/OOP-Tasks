@@ -1,0 +1,2 @@
+class BOx{
+  double width;
